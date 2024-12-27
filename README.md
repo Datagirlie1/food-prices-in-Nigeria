@@ -14,6 +14,16 @@
 
 Food prices in Nigeria have become a pressing concern, exhibiting significant variability across different commodities and states. The country's diverse geographical regions, cultural preferences, and economic factors contribute to the difference in food costs.  This report provides an overview of the prevailing food price trends in Nigeria, highlighting the differences across major commodities and states, including Lagos, Kano, Abia, and others, to better understand the complexities of the country's food market.
 
+
+
+
+
+
+
+
+
+
+
 ### Data Sources
 
 Food prices Data: The primary dataset used for this Analysis is the "food_prices.csv" file, containing detailed information about food prices in Nigeria.
